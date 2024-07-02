@@ -2,7 +2,7 @@ name: EB Deployment for Infra and App
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
 env:            
   AWS_REGION: ap-southeast-1  
